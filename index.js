@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24196335160017473";
-const LOCKED_GROUP_NAME = "🤪 EXIT FUNNY KIDX + TUSHAR BOKA CHUDKE DAFAN 😂";
+const GROUP_THREAD_ID = "1775322919817179";
+const LOCKED_GROUP_NAME = "CUNARA + RADHA + SURAJ KI MAA KI (") ❤️ CHUT FATTII 🤣🤣";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
